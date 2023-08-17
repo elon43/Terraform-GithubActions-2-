@@ -1,3 +1,5 @@
 .terraform.lock.hcl
 .terraform/*
 dev/.terraform/
+stg/.terraform/
+prod/.terraform/
