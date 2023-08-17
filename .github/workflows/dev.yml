@@ -3,12 +3,12 @@ name: 'Terraform - Production'
 on:
   push:
     branches:
-    - main
+    - master 
     paths: 
     - dev/**
   pull_request:
     branches:
-    - main
+    - master
     paths: 
     - dev/**
 
